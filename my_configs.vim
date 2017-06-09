@@ -14,3 +14,5 @@ if has("gui_running")
     set guifont=Inconsolata:h11:cANSI
   endif
 endif
+
+set relativenumber
